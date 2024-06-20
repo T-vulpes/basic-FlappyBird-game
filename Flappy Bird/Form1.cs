@@ -12,8 +12,8 @@ namespace Flappy_Bird
 {
     public partial class Form1 : Form
     {
-        int pipeSpeed = 6;  // Hızını ayarlayabilirsiniz
-        int gravity = 10;   // Yerçekimi
+        int pipeSpeed = 6; 
+        int gravity = 10; 
         int score = 0;
 
         public Form1()
